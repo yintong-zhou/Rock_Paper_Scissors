@@ -46,12 +46,14 @@ header > h1 {
     position: absolute;
     top: 30px;
     left: -25px;
+    border-radius: 4px;
 }
 
 #comp-label {
     position: absolute;
     top: 30px;
     right: -30px;
+    border-radius: 4px;
 }
 
 .result {
